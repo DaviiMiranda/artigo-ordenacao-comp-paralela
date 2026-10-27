@@ -1,0 +1,5 @@
+algoritmo,faixa_n,expoente
+BubbleSort,10000-50000,2.127
+CountingSort,100000-10000000,1.075
+MergeSort,100000-10000000,1.088
+QuickSort,100000-10000000,1.074

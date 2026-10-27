@@ -1,0 +1,11 @@
+data_hora=2026-10-08T21:19:08.042044969
+nucleos_disponiveis=2
+memoria_max_jvm_mb=3072
+java_version=21.0.12.1
+java_vm=OpenJDK 64-Bit Server VM
+os=Linux 6.18.44-fc-v80 (amd64)
+jvm_args=-Xmx3g
+threads=[2, 4, 8]
+amostras=5 aquecimento=2
+tamanhos_quadratico=[1000, 5000, 10000, 25000, 50000]
+tamanhos_nlogn=[10000, 50000, 100000, 1000000, 5000000, 10000000]
